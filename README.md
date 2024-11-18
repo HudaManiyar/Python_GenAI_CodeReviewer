@@ -108,7 +108,7 @@ print(result)
 ---
 <br />
 
-Please check out the **[Full Code]()** for Further Explanation!<br />
+Please check out the **[Full Code](alpha_app.py)** for Further Explanation!<br />
 \
 Your Thoughts and Feedback are highly appreciated! :smile:<br />
 
