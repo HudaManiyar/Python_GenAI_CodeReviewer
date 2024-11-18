@@ -6,6 +6,11 @@ AlphaBot aims to provide an intuitive platform for developers to review Python c
 
 <br />
 
+
+**![AlphaBot_Home](AlphaBot_Home.png)**
+
+<br />
+
 ## KEY FEATURES
 <br />
 
@@ -82,6 +87,21 @@ def divide(a, b):
 result = divide(10, 0)
 print(result)
 ```
+
+<br />
+
+
+### INPUT
+**![AlphaBot_Code](AlphaBot_Example_Code.png)**
+
+<br />
+
+
+### OUTPUT
+**![AlphaBot_Code](AlphaBot_Output.png)**
+
+<br />
+
 
 **[Demo Video](AlphaBot_AppDemo.mp4)**
 
